@@ -1,0 +1,7 @@
+The kitchen was created.
+ 4 of Pasta was added to the kitchen.
+we don't have Falafel, sorry! 
+4 Pasta were added to the table number 5.
+1 Pasta was returned to the table number 5
+The table number 1 is not ordered yet
+ you didn't invite premiuem meal.3 Pasta 90.00 nis,please!
